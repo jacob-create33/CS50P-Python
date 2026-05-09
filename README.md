@@ -17,9 +17,9 @@ CS50P is a comprehensive introduction to programming using Python. It covers top
 - [ ] **Week 8** Object-Oriented Programming
 - [ ] **Week 9** Et Cetera
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **Tools:** VS Code, Git, Pytest
 
-## 📝 Academic Honesty
+##  Academic Honesty
 These solutions are for my personal portfolio and tracking my progress. If you are currently taking the course, please respect the [CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/2022/honesty/).
